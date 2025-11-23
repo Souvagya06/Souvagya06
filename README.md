@@ -85,6 +85,12 @@ Let me know if you'd like to add a timeline of your learning journey, a quote th
         <br><strong>GeeksforGeeks Profile</strong>
       </a>
     </td>
+    <td align="center">
+      <a href="https://leetcode.com/u/Souvagya06/"_blank">
+        <img src="https://github.com/Souvagya06/Souvagya06/blob/main/0_xJCLQQRZv3XFMUd1.png" width="250" height="250" alt="GeeksforGeeks Logo"/>
+        <br><strong>LeetCode Profile</strong>
+      </a>
+    </td>
   </tr>
 </table>
 <br>
