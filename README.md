@@ -9,7 +9,9 @@
 
 </div>
 
-<img align="right" src="https://user-images.githubusercontent.com/67560900/107698101-10797e00-6cda-11eb-8357-b7808d66151a.gif" height="70" width="310" alt="hellogif"/>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/67560900/107698101-10797e00-6cda-11eb-8357-b7808d66151a.gif" height="70" width="310" alt="hellogif"/>
+</div>
 
 <h1>
   <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/hi.gif" height="20" width="40"/>
@@ -33,27 +35,59 @@
 
 ## `> whoami`
 
+<table>
+<tr>
+<td valign="top" width="55%">
+
 ```python
 class Souvagya:
-    name        = "Souvagya Karmakar"
-    role        = "Full Stack & AI Developer"
-    university  = "University of Engineering & Management, Kolkata"
-    degree      = "B.Tech CSE (AI) — 2026"
-    location    = "Kolkata, West Bengal, India"
+  # ── Identity ───────────────────────────
+  name       = "Souvagya Karmakar"
+  role       = "Full Stack & AI Developer"
+  degree     = "B.Tech CSE (AI) — 2026"
+  university = "UEM, Kolkata"
+  location   = "📍 Kolkata, West Bengal, India"
 
-    passions    = [
-        "Integrating AI into real-world systems",
-        "Building modular hardware/software solutions",
-        "Deep Learning & LLM-powered applications",
-        "Open Source Collaboration",
-    ]
+  # ── What drives me ─────────────────────
+  passions = [
+    "🤖 AI into real-world systems",
+    "🔩 Modular hardware/software builds",
+    "🧠 Deep Learning & LLM pipelines",
+    "🌐 Open Source Collaboration",
+  ]
 
-    currently   = "Diving into Deep Learning & AI pipelines"
-    fun_fact    = "Codes to Pink Floyd 🎸"
-    music       = "Also plays sitar on YouTube 🎵"
+  # ── Right now ──────────────────────────
+  currently = "Exploring Deep Learning"
+  open_to   = "Internships & Collabs"
+
+  # ── Fun stuff ──────────────────────────
+  fun_fact  = "Codes to Pink Floyd 🎸"
+  also      = "Plays sitar on YouTube 🎵"
 ```
 
-> 🚀 Always up for collaboration — especially creative brainstorming, hands-on troubleshooting, and vibing to Pink Floyd in the background.
+</td>
+<td valign="top" width="45%">
+
+### 🚀 Quick Facts
+
+| | |
+|---|---|
+| 🏫 | UEM Kolkata — CSE (AI) |
+| 🗺️ | Kolkata, India |
+| 💼 | 2× Internships (2026) |
+| 🛠️ | 8+ Projects shipped |
+| 🤝 | Team Lead & Solo Builder |
+| 🌱 | Currently: Deep Learning |
+| 🎸 | Pink Floyd devotee |
+| 🎵 | Sitar player on YT |
+
+<br/>
+
+> *"Always up for creative brainstorming, hands-on troubleshooting, and vibing to Pink Floyd in the background."*
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -273,20 +307,14 @@ Completed **3-level Python internship** covering:
 ## `> connect --with-me`
 
 <p align="center">
-  <a href="mailto:souvagyakarmakar0712@gmail.com" target="_blank">
-    <img src="https://cdn.iconscout.com/icon/free/png-512/free-gmail-2981844-2476484.png" alt="Gmail" height="40" width="40"/>
+  <a href="mailto:souvagyakarmakar0712@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-souvagyakarmakar0712-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/souvagya-karmakar-4b818a389/" target="_blank">
-    <img src="https://cdn.iconscout.com/icon/free/png-64/linkedin-208-916919.png" alt="LinkedIn" height="40" width="40"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Souvagya-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  &nbsp;&nbsp;
   <a href="https://www.youtube.com/@Sitar_by_Souvagya" target="_blank">
-    <img src="https://cdn.iconscout.com/icon/free/png-512/free-youtube-85-226402.png" alt="YouTube" height="40" width="40"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/Souvagya06" target="_blank">
-    <img src="https://cdn.iconscout.com/icon/free/png-512/github-163-761395.png" alt="GitHub" height="40" width="40"/>
+    <img src="https://img.shields.io/badge/YouTube-Sitar_by_Souvagya-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
   </a>
 </p>
 
