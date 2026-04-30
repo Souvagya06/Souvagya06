@@ -3,7 +3,7 @@
 ```
 ╔══════════════════════════════════════════════════════════════╗
 ║   SOUVAGYA KARMAKAR  //  FULL STACK + AI DEVELOPER           ║
-║   Kolkata, India  ·  UEM  ·  B.Tech CSE (AI)  2026          ║
+║   Kolkata, India  ·  UEM  ·  B.Tech CSE (AI)  2026           ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
