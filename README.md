@@ -44,7 +44,7 @@ class Souvagya:
   # ── Identity ───────────────────────────
   name       = "Souvagya Karmakar"
   role       = "Full Stack & AI Developer"
-  degree     = "B.Tech CSE (AI) — 2026"
+  degree     = "B.Tech CSE (AI) — 2028"
   university = "UEM, Kolkata"
   location   = "📍 Kolkata, West Bengal, India"
 
@@ -78,7 +78,6 @@ class Souvagya:
 | 🛠️ | 8+ Projects shipped |
 | 🤝 | Team Lead & Solo Builder |
 | 🌱 | Currently: Deep Learning |
-| 🎸 | Pink Floyd devotee |
 | 🎵 | Sitar player on YT |
 
 <br/>
